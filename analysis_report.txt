@@ -1,0 +1,14 @@
+E-commerce Data Mining Report
+=============================
+
+Total Products: 100
+Average Price: 34.560700000000004
+
+Rating Distribution:
+Rating
+Three    22
+One      22
+Five     19
+Two      19
+Four     18
+Name: count, dtype: int64
